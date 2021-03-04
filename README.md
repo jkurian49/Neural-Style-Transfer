@@ -7,4 +7,5 @@ The provided Colab file can be used to apply NST to an arbitrary set of user-pro
 
 ## References
 [1] https://www.tensorflow.org/tutorials/generative/style_transfer
+
 [2] https://arxiv.org/abs/1508.06576
